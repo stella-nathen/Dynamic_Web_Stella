@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "Major Scales",
+      "bpm": 80,
+      "done": true,
+      "id": 1
+    },
+    {
+      "title": "Minor Scales",
+      "bpm": null,
+      "done": false,
+      "id": 2
+    }
+  ]
+}
